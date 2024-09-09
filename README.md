@@ -1,8 +1,12 @@
-<div align="center">
-<h1 align="center">Hola, soy Eric Joel 👋</h1>
-</div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://kodigowebstorage.blob.core.windows.net/kodigowebsite/2023/07/experiencia-programacion-persona-que-trabaja-codigos-computadora-scaled-1.jpg)">
+<h1 align="center">Hola 👋, Soy Eric Cacuango</h1>
 
-## Sobre mi
-- ![image](https://github.com/user-attachments/assets/3822599d-b1ec-4390-9595-18df005611c9) Programar en Python
-- ![image](https://github.com/user-attachments/assets/66a27f31-57e2-4ec9-a628-22a551564fbc) Estudiante 
+🌱 Estudiante de **Desarrollo de Software**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+<br>
+<h3 align="left">Languajes de Programacion y Herramientas:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,sqlite,git,github,postman,vscode,django,fastapi" />
+  </a>
+</p>
