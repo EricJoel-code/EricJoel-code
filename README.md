@@ -4,9 +4,9 @@
 <!--Intro start-->
 
 <p align="left">
-🧑‍🎓 Estudiante de <strong>Desarrollo de Software</strong>
+🧑‍🎓 <strong>Desarrollador de Software</strong>
 
-💻 No tengo experiencia en el campo laboral (¡Si me contratas, cambiaré esto! 😜)
+💻 Trabajo en NovaTech, donde impulsamos el futuro creando soluciones de vanguardia
 
 📫 Contacto: <strong>ericcacuango@gmail.com</strong>
 <!--Intro end-->
