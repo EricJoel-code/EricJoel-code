@@ -24,7 +24,7 @@ Desarrollador de Software Junior
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,django,react,fastapi,flask,postgresql,mysql,sqlite,git,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,django,react,fastapi,flask,postgresql,mysql,sqlite,git,github,postman,vscode" />
   </a>
 </p>
 
