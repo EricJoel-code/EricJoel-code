@@ -21,7 +21,7 @@ Desarrollador de Software Junior
 <h2>🛠️ Tecnologías y Herramientas</h2> 
   <p align="left"> 
     <a href="https://skillicons.dev"> 
-      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,django,react,fastapi,flask,spring,postgresql,mysql,sqlite,git,github,postman" height="35" /> 
+      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,django,react,fastapi,flask,spring,postgresql,mysql,sqlite,git,github,postman" /> 
     </a> 
   </p> 
 
