@@ -8,30 +8,16 @@ Desarrollador de Software Junior
 
 <h2>👨‍💻 Sobre mí</h2>
 
-<table>
-  <tr>
-    <!-- TEXTO -->
-    <td width="65%" valign="top">
-
 🧑‍🎓 <strong>Desarrollador de Software Junior</strong> con interés en el desarrollo backend, APIs REST y aplicaciones web modernas.<br><br>
 
 🚀 Trabajo como <strong>Freelance</strong>, creando soluciones funcionales y escalables utilizando buenas prácticas de desarrollo.<br><br>
 
 📚 En constante aprendizaje sobre <strong>Backend, Arquitectura de Software, Bases de Datos y Seguridad</strong>.
 
-  </td>
-
-  <!-- IMAGEN -->
-  <td width="35%" align="center">
-<br>
-<img alt="Coding"
-     width="160"
-     src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
-
-  </td>
-  </tr>
-</table>
-
+<p align="right">
+  <img alt="Coding" width="170"
+       src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</p>
 
 <hr>
 
