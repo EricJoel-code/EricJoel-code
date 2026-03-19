@@ -1,18 +1,20 @@
 <h1 align="center">Hola 👋, soy Eric Cacuango</h1>
 
 <p align="center">
-Desarrollador de Software Junior 
+🔐 Desarrollador Backend enfocado en Seguridad
 </p>
 
 <hr>
 
 <h2>👨‍💻 Sobre mí</h2>
 
-🧑‍🎓 <strong>Desarrollador de Software Junior</strong> con interés en el desarrollo backend, APIs REST y aplicaciones web modernas.<br><br>
+🧑‍🎓 <strong>Desarrollador Junior</strong> enfocado en backend y seguridad informática.<br><br>
 
-🚀 Trabajo como <strong>Freelance</strong>, creando soluciones funcionales y escalables utilizando buenas prácticas de desarrollo.<br><br>
+🔐 Interesado en el desarrollo de APIs seguras, autenticación, protección de datos y buenas prácticas de ciberseguridad.<br><br>
 
-📚 En constante aprendizaje sobre <strong>Backend, Arquitectura de Software, Bases de Datos y Seguridad</strong>.
+🚀 Trabajador <strong>Independiente</strong>, creando soluciones escalables, aplicando principios de arquitectura limpia y seguridad en cada proyecto.<br><br>
+
+📚 Actualmente sigo formandome en <strong>Seguridad, Backend Avanzado y Arquitectura de Software.</strong>.
 
 <p align="center">
   <img alt="Coding" width="170"
